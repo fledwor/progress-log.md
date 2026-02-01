@@ -16,3 +16,4 @@ Reading about L2 architecture
 Practicing Git version control
 Improving commit workflow
 Studying blockchain security basics
+Learning about contract events
