@@ -40,3 +40,4 @@ Testing contract interaction
 Reviewing transaction confirmations
 Researching dApp architecture
 Improving repository documentation
+Tracking smart contract experiments
