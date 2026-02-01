@@ -5,3 +5,4 @@ Configured development environment
 Reviewed Base network documentation
 Exploring smart contract basics
 Studying Solidity syntax
+Testing simple contract deployment
