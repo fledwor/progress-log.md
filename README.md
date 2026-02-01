@@ -15,3 +15,4 @@ Researching Base ecosystem projects
 Reading about L2 architecture
 Practicing Git version control
 Improving commit workflow
+Studying blockchain security basics
