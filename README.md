@@ -9,3 +9,4 @@ Testing simple contract deployment
 Learning about gas optimization
 Understanding contract storage
 Reviewing Remix IDE tools
+Experimenting with test transactions
