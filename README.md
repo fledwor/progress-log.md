@@ -30,3 +30,4 @@ Testing contract variables
 Learning about view functions
 Exploring public vs private variables
 Studying smart contract deployment flow
+Reviewing BaseScan explorer tools
