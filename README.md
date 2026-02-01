@@ -17,3 +17,4 @@ Practicing Git version control
 Improving commit workflow
 Studying blockchain security basics
 Learning about contract events
+Exploring EVM compatibility
