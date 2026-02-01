@@ -20,3 +20,4 @@ Learning about contract events
 Exploring EVM compatibility
 Researching wallet integrations
 Understanding transaction lifecycle
+Practicing debugging in Remix
