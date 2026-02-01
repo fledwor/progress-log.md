@@ -19,3 +19,4 @@ Studying blockchain security basics
 Learning about contract events
 Exploring EVM compatibility
 Researching wallet integrations
+Understanding transaction lifecycle
