@@ -36,3 +36,4 @@ Documenting Web3 learning journey
 Exploring gas fee behavior
 Learning about calldata vs memory
 Studying contract compilation process
+Testing contract interaction
