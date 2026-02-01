@@ -22,3 +22,4 @@ Researching wallet integrations
 Understanding transaction lifecycle
 Practicing debugging in Remix
 Reviewing open-source Base projects
+Learning about contract verification
