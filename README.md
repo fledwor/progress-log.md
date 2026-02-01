@@ -28,3 +28,4 @@ Organizing project notes
 Tracking daily development progress
 Testing contract variables
 Learning about view functions
+Exploring public vs private variables
