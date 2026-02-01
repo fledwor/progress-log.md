@@ -26,3 +26,4 @@ Learning about contract verification
 Improving README documentation
 Organizing project notes
 Tracking daily development progress
+Testing contract variables
