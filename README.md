@@ -46,3 +46,4 @@ Studying contract structure
 Reviewing blockchain fundamentals
 Practicing structured commits
 Documenting Base builder journey
+Exploring developer tools ecosystem
