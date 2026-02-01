@@ -45,3 +45,4 @@ Learning about payable functions
 Studying contract structure
 Reviewing blockchain fundamentals
 Practicing structured commits
+Documenting Base builder journey
