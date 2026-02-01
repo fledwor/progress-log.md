@@ -41,3 +41,4 @@ Reviewing transaction confirmations
 Researching dApp architecture
 Improving repository documentation
 Tracking smart contract experiments
+Learning about payable functions
