@@ -11,3 +11,4 @@ Understanding contract storage
 Reviewing Remix IDE tools
 Experimenting with test transactions
 Documenting learning progress
+Researching Base ecosystem projects
