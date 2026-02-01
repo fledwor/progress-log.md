@@ -32,3 +32,4 @@ Exploring public vs private variables
 Studying smart contract deployment flow
 Reviewing BaseScan explorer tools
 Practicing consistent development logs
+Documenting Web3 learning journey
