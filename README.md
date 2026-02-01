@@ -7,3 +7,4 @@ Exploring smart contract basics
 Studying Solidity syntax
 Testing simple contract deployment
 Learning about gas optimization
+Understanding contract storage
