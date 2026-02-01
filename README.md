@@ -43,3 +43,4 @@ Improving repository documentation
 Tracking smart contract experiments
 Learning about payable functions
 Studying contract structure
+Reviewing blockchain fundamentals
