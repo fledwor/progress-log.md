@@ -67,3 +67,4 @@ Hands-on learning includes:
 ## 📚 Knowledge Growth Areas
 Continuously learning about:
 - Blockchain fundamentals
+- EVM architecture
