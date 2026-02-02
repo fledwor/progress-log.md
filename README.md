@@ -57,3 +57,4 @@ Ongoing areas of focus and practice:
 ## 🧪 Experiments & Practice
 Hands-on learning includes:
 - Testing simple Solidity contracts
+- Observing contract behavior on test environments
