@@ -53,3 +53,4 @@ Ongoing areas of focus and practice:
 - Practicing transaction monitoring
 - Studying contract security basics
 - Organizing development notes
+- Exploring Web3 developer resources
