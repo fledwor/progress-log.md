@@ -66,3 +66,4 @@ Hands-on learning includes:
 - Improving repository organization
 ## 📚 Knowledge Growth Areas
 Continuously learning about:
+- Blockchain fundamentals
