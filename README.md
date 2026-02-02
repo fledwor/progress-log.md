@@ -1,50 +1,44 @@
-# progress-log.md
-Initialized repository structure
-Set up project workspace
-Configured development environment
-Reviewed Base network documentation
-Exploring smart contract basics
-Studying Solidity syntax
-Testing simple contract deployment
-Learning about gas optimization
-Understanding contract storage
-Reviewing Remix IDE tools
-Experimenting with test transactions
-Documenting learning progress
-Researching Base ecosystem projects
-Reading about L2 architecture
-Practicing Git version control
-Improving commit workflow
-Studying blockchain security basics
-Learning about contract events
-Exploring EVM compatibility
-Researching wallet integrations
-Understanding transaction lifecycle
-Practicing debugging in Remix
-Reviewing open-source Base projects
-Learning about contract verification
-Improving README documentation
-Organizing project notes
-Tracking daily development progress
-Testing contract variables
-Learning about view functions
-Exploring public vs private variables
-Studying smart contract deployment flow
-Reviewing BaseScan explorer tools
-Practicing consistent development logs
-Documenting Web3 learning journey
-Exploring gas fee behavior
-Learning about calldata vs memory
-Studying contract compilation process
-Testing contract interaction
-Reviewing transaction confirmations
-Researching dApp architecture
-Improving repository documentation
-Tracking smart contract experiments
-Learning about payable functions
-Studying contract structure
-Reviewing blockchain fundamentals
-Practicing structured commits
-Documenting Base builder journey
-Exploring developer tools ecosystem
-Maintaining development consistency
+# Base Builder Journey 🚀
+
+This repository documents my ongoing learning and development journey as I explore blockchain technology and the Base ecosystem.
+
+## 🎯 Purpose
+The goal of this project is to:
+- Practice consistent Git version control
+- Document progress while learning Web3 development
+- Explore smart contract fundamentals
+- Track experiments and tools used in the Base ecosystem
+
+## 🧠 Learning Focus
+Currently studying and experimenting with:
+
+- Solidity smart contract basics
+- Contract deployment workflows
+- Gas optimization concepts
+- EVM compatibility
+- Transaction lifecycle
+- Remix IDE development
+- Base network tools and infrastructure
+
+## 🛠 Tools & Platforms
+- GitHub (version control practice)
+- Remix IDE
+- Base Network
+- BaseScan Explorer
+- Web3 Wallets
+
+## 📈 Progress Log
+Development notes and learning milestones are recorded in **builder-log.md**.
+
+This log tracks:
+- Concepts studied
+- Development experiments
+- Workflow improvements
+- Daily progress
+
+## 🚀 Vision
+Building foundational knowledge to grow into smart contract development and Web3 application building on Base.
+
+---
+
+Consistency > speed. Learning by doing.
