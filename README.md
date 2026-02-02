@@ -69,3 +69,4 @@ Continuously learning about:
 - Blockchain fundamentals
 - EVM architecture
 - Layer 2 scaling solutions
+- Smart contract lifecycle
