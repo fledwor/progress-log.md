@@ -56,3 +56,4 @@ Ongoing areas of focus and practice:
 - Exploring Web3 developer resources
 ## 🧪 Experiments & Practice
 Hands-on learning includes:
+- Testing simple Solidity contracts
