@@ -62,3 +62,4 @@ Hands-on learning includes:
 - Practicing small documentation improvements
 - Maintaining structured development logs
 - Exploring smart contract variables and functions
+- Learning development best practices
