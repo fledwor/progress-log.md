@@ -47,3 +47,4 @@ Ongoing areas of focus and practice:
 - Documenting daily development progress
 - Improving Git commit consistency
 - Exploring smart contract structure
+- Reviewing Base network ecosystem tools
