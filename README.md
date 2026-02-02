@@ -50,3 +50,4 @@ Ongoing areas of focus and practice:
 - Reviewing Base network ecosystem tools
 - Learning contract deployment workflows
 - Understanding gas fee behavior
+- Practicing transaction monitoring
