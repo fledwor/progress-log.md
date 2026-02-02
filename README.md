@@ -48,3 +48,4 @@ Ongoing areas of focus and practice:
 - Improving Git commit consistency
 - Exploring smart contract structure
 - Reviewing Base network ecosystem tools
+- Learning contract deployment workflows
