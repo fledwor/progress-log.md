@@ -81,3 +81,4 @@ Studied function visibility in Solidity
 Learning about contract interaction methods
 Reviewed event logging in smart contracts
 Practicing structured documentation updates
+Researching common smart contract patterns
