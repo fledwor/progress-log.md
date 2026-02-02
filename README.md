@@ -58,3 +58,4 @@ Ongoing areas of focus and practice:
 Hands-on learning includes:
 - Testing simple Solidity contracts
 - Observing contract behavior on test environments
+- Reviewing transaction data on explorers
