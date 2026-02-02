@@ -61,3 +61,4 @@ Hands-on learning includes:
 - Reviewing transaction data on explorers
 - Practicing small documentation improvements
 - Maintaining structured development logs
+- Exploring smart contract variables and functions
