@@ -72,3 +72,4 @@ Continuously learning about:
 - Smart contract lifecycle
 - Developer tooling in Web3
 - Wallet interactions
+- On-chain data transparency
