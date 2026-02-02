@@ -63,3 +63,4 @@ Hands-on learning includes:
 - Maintaining structured development logs
 - Exploring smart contract variables and functions
 - Learning development best practices
+- Improving repository organization
