@@ -55,3 +55,4 @@ Ongoing areas of focus and practice:
 - Organizing development notes
 - Exploring Web3 developer resources
 ## 🧪 Experiments & Practice
+Hands-on learning includes:
