@@ -71,3 +71,4 @@ Continuously learning about:
 - Layer 2 scaling solutions
 - Smart contract lifecycle
 - Developer tooling in Web3
+- Wallet interactions
