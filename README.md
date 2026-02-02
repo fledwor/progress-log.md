@@ -46,3 +46,4 @@ Consistency > speed. Learning by doing.
 Ongoing areas of focus and practice:
 - Documenting daily development progress
 - Improving Git commit consistency
+- Exploring smart contract structure
