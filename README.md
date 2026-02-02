@@ -83,3 +83,4 @@ Reviewed event logging in smart contracts
 Practicing structured documentation updates
 Researching common smart contract patterns
 Exploring development workflow improvements
+Studied how blockchain confirmations work
