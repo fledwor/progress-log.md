@@ -73,3 +73,4 @@ Continuously learning about:
 - Developer tooling in Web3
 - Wallet interactions
 - On-chain data transparency
+- Version control workflow
