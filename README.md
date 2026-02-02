@@ -59,3 +59,4 @@ Hands-on learning includes:
 - Testing simple Solidity contracts
 - Observing contract behavior on test environments
 - Reviewing transaction data on explorers
+- Practicing small documentation improvements
