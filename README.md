@@ -54,3 +54,4 @@ Ongoing areas of focus and practice:
 - Studying contract security basics
 - Organizing development notes
 - Exploring Web3 developer resources
+## 🧪 Experiments & Practice
