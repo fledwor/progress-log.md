@@ -70,3 +70,4 @@ Continuously learning about:
 - EVM architecture
 - Layer 2 scaling solutions
 - Smart contract lifecycle
+- Developer tooling in Web3
