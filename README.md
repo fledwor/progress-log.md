@@ -43,3 +43,4 @@ Building foundational knowledge to grow into smart contract development and Web3
 
 Consistency > speed. Learning by doing.
 ## 🗂 Current Learning Activities
+Ongoing areas of focus and practice:
