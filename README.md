@@ -90,3 +90,4 @@ Reviewing smart contract compilation process
 Exploring how wallets sign transactions
 Learning about read vs write contract calls
 Studied basic contract testing concepts
+Organizing development resources
