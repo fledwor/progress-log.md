@@ -79,3 +79,4 @@ Improved understanding of transaction flow
 Explored Base network developer tools
 Studied function visibility in Solidity
 Learning about contract interaction methods
+Reviewed event logging in smart contracts
