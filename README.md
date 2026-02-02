@@ -76,3 +76,4 @@ Continuously learning about:
 - Version control workflow
 Reviewed contract deployment steps
 Improved understanding of transaction flow
+Explored Base network developer tools
