@@ -60,3 +60,4 @@ Hands-on learning includes:
 - Observing contract behavior on test environments
 - Reviewing transaction data on explorers
 - Practicing small documentation improvements
+- Maintaining structured development logs
