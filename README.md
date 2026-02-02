@@ -87,3 +87,4 @@ Studied how blockchain confirmations work
 Learning about contract state changes
 Improving consistency in project tracking
 Reviewing smart contract compilation process
+Exploring how wallets sign transactions
