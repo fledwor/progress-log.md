@@ -51,3 +51,4 @@ Ongoing areas of focus and practice:
 - Learning contract deployment workflows
 - Understanding gas fee behavior
 - Practicing transaction monitoring
+- Studying contract security basics
