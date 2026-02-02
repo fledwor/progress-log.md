@@ -52,3 +52,4 @@ Ongoing areas of focus and practice:
 - Understanding gas fee behavior
 - Practicing transaction monitoring
 - Studying contract security basics
+- Organizing development notes
