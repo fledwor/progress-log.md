@@ -49,3 +49,4 @@ Ongoing areas of focus and practice:
 - Exploring smart contract structure
 - Reviewing Base network ecosystem tools
 - Learning contract deployment workflows
+- Understanding gas fee behavior
