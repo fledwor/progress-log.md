@@ -92,3 +92,4 @@ Learning about read vs write contract calls
 Studied basic contract testing concepts
 Organizing development resources
 Practicing clean repository structure
+Documenting incremental learning progress
