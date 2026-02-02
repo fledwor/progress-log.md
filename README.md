@@ -75,3 +75,4 @@ Continuously learning about:
 - On-chain data transparency
 - Version control workflow
 Reviewed contract deployment steps
+Improved understanding of transaction flow
